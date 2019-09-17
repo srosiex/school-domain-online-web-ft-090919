@@ -5,4 +5,5 @@ class School
   def name
     @name
   end
+  ROSTER = []
 end
