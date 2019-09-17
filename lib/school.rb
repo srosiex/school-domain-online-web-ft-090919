@@ -7,8 +7,7 @@ class School
     @name
   end
 
-  def roster=(roster)
-    @roster = roster
-    ROSTER << roster
+  def roster
+    @roster
   end
 end
