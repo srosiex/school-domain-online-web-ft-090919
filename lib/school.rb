@@ -10,9 +10,9 @@ class School
   def roster
     @roster
   end
-def add_student
+def add_student(name, grade)
   @add_student
-  roster << add_student
+
 end
 
 end
